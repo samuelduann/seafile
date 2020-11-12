@@ -39,7 +39,7 @@ services:
       - seafile-net
           
   seafile:
-    image: registry.cn-zhangjiakou.aliyuncs.com/vaniti/seafile:7.0.9
+    image: registry.cn-zhangjiakou.aliyuncs.com/vaniti/seafile:7.0.9-mod
     container_name: seafile
     restart: always
     ports:
