@@ -1,3 +1,3 @@
 # seafile
-1. deps: docker & docker-compose
-2. data dir: /opt/{seafile-data,seafile-elasticsearch,seafile-mysql}
+
+Thirdparty mod for Seafile Pro 7.0.9, with HEIF/HEIC and NEF image thumbnail support.
